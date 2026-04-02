@@ -51,7 +51,7 @@ This project walks through a full data science workflow — from data cleaning a
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas & NumPy
@@ -61,7 +61,7 @@ This project walks through a full data science workflow — from data cleaning a
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -72,7 +72,7 @@ This project walks through a full data science workflow — from data cleaning a
 
 ---
 
-## 📊 Results
+##  Results
 
 | Metric | Score |
 |---|---|
@@ -87,6 +87,6 @@ This project walks through a full data science workflow — from data cleaning a
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
